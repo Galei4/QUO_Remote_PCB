@@ -1,0 +1,33 @@
+# QUO_Remote
+## English:
+
+Active energy consumption from energy meters using their LEDs.
+
+Since the LED blinking indicates a portion of the electrical energy consumed, this PCB is installed on top of the energy meter without any interference with the device’s frame.
+
+All data is sent to the server via Wi-Fi using an ESP32.
+
+Additionally, it features a relay output for controlling a contactor.
+
+Specifications:
+- Nominal current: 100 mA
+- Nominal voltage: 220 V
+
+## Deutsch:
+
+Die Leiterplatte (PCB) ist dafür ausgelegt, folgende Messung durchzuführen:
+
+Aktiver Energieverbrauch von Stromzählern anhand ihrer LEDs.
+
+Da das Blinken der LED einen Teil des verbrauchten elektrischen Stroms anzeigt, wird diese Leiterplatte ohne Eingriff in das Gehäuse des Zählers auf dessen Oberfläche montiert.
+
+Alle Daten werden über Wi-Fi mit einem ESP32 an den Server gesendet.
+
+Zusätzlich verfügt sie über einen Relaisausgang zur Steuerung eines Schützes.
+
+Spezifikationen:
+- Nennstrom: 100 mA
+- Nennspannung: 220 V
+
+
+
